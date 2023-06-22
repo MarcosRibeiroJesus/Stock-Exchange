@@ -1,0 +1,8 @@
+{
+    "investor_id": "Juvenal",
+    "asset_id": "BTC",
+    "current_shares": 0,
+    "shares": 5,
+    "price": 5.0,
+    "order_type": "BUY"
+}
